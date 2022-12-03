@@ -1,0 +1,38 @@
+<?xml version = "1.0"?>
+<class>
+    <student no = "1">
+        <name>Ilya</name>
+        <lastname>Maglich</lastname>
+        <birthday>19/12/2002</birthday>
+        <group>051004</group>
+        <id>111</id>
+        <role>user</role>
+    </student>
+
+    <student no = "2">
+        <name>Anna</name>
+        <lastname>Morozova</lastname>
+        <birthday>12/05/2002</birthday>
+        <group>051004</group>
+        <id>112</id>
+        <role>user</role>
+    </student>
+
+    <student no = "3">
+        <name>Kostya</name>
+        <lastname>Tolmach</lastname>
+        <birthday>24/05/2001</birthday>
+        <group>051007</group>
+        <id>113</id>
+        <role>user</role>
+    </student>
+
+    <student no = "4">
+        <name>Thomas</name>
+        <lastname>Shelbi</lastname>
+        <birthday>08/10/1810</birthday>
+        <group>051001</group>
+        <id>114</id>
+        <role>user</role>
+    </student>
+</class>
